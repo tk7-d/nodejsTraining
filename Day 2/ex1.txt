@@ -1,0 +1,2 @@
+The reason why promise and async/await are used is to avoid the problems which could arise by using multiple callback functions because the code becomes messy. 
+They also remove the requirement of chaining functions one after the other. Using it, the code will wait for the response to be received and then only move to the next line of code.
